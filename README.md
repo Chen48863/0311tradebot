@@ -59,4 +59,4 @@ GEMINI_API_KEY=your_api_key_here
 
 ## GitHub 專案連結
 
-請填入小組各組員 GitHub repository 網址。
+陳柏宇:https://github.com/Chen48863/0311tradebot.git
