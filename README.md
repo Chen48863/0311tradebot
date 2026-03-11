@@ -85,8 +85,7 @@ GEMINI_API_KEY=your_api_key_here
 
 ## 學習心得
 
-> 請簡要寫出本次作業的學習心得。
-陳柏宇:透過這次實作，學會了如何使用 LangChain 串接 Google Gemini API，並實現多模態輸入（文字、圖片、PDF）的對話功能。過程中也更了解如何透過 `.env` 管理 API 金鑰，以及如何用 JSON 格式保存對話記錄。整體而言，對於 AI Agent 的基本架構有了更清楚的認識。
+> 陳柏宇:透過這次實作，學會了如何使用 LangChain 串接 Google Gemini API，並實現多模態輸入（文字、圖片、PDF）的對話功能。過程中也更了解如何透過 `.env` 管理 API 金鑰，以及如何用 JSON 格式保存對話記錄。整體而言，對於 AI Agent 的基本架構有了更清楚的認識。
 ---
 
 ## GitHub 專案連結
