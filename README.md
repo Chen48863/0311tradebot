@@ -72,8 +72,9 @@ GEMINI_API_KEY=your_api_key_here
 
 ### 問題 1
 
-問題：
-解法：
+問題：執行程式時出現 `ValueError: ❌ 找不到 GOOGLE_API_KEY`，無法啟動對話。
+
+解法：發現忘記在專案根目錄建立 `.env` 檔案。於是在根目錄新增 `.env`，並填入 `GOOGLE_API_KEY=自己的金鑰` 後，問題解決。同時確認 `python-dotenv` 套件已安裝（`pip install python-dotenv`）。
 
 ### 問題 2
 
