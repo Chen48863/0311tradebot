@@ -49,7 +49,7 @@ python chat.py
 範例指令：
 
 ```bash
-git clone 你的專案網址
+git clone https://github.com/Chen48863/0311tradebot.git
 ```
 
 ---
