@@ -90,6 +90,8 @@ GEMINI_API_KEY=your_api_key_here
 > 陳柏宇:透過這次實作，學會了如何使用 LangChain 串接 Google Gemini API，並實現多模態輸入（文字、圖片、PDF）的對話功能。過程中也更了解如何透過 `.env` 管理 API 金鑰，以及如何用 JSON 格式保存對話記錄。整體而言，對於 AI Agent 的基本架構有了更清楚的認識。
 
 > 林永富：這週的 AI Agent 課程讓我學到如何利用 GitHub 進行版本控制，也更了解專案開發中管理程式碼的重要性。透過實際操作，我認識了像是提交、同步與版本紀錄等基本功能，知道 GitHub 不只是存放程式碼的平台，也能幫助團隊協作與追蹤修改內容。這次課程讓我對版本控制有更清楚的概念，也覺得這是未來開發 AI 專案時很實用的基礎能力。
+
+> 陳婉榕：本次課程主要介紹 AI 專案開發過程中「版本控制與團隊協作」的重要性，並實際操作 Git 與 GitHub 來管理專案。透過重建一個最小可運作的 chatbot 專案，我理解到在 AI 開發中，程式會頻繁修改，如果沒有良好的版本管理機制，很容易在修改錯誤時無法回復，或在多人協作時造成程式碼互相覆蓋的問題。課程也讓我學習到 Git 的基本操作，例如使用 commit 記錄版本、push 將本地端程式同步到 GitHub，以及透過 branch 進行分工開發。此外，我也了解到 API key 等敏感資訊應透過 .env 檔案管理並加入 .gitignore，避免上傳到 GitHub 造成安全風險。透過這次實作，我不僅學會了基本的專案版控流程，也更理解團隊協作在 AI 專案開發中的重要性，對未來進行多人合作開發專案具有很大的幫助。 
 ---
 
 ## GitHub 專案連結
@@ -97,3 +99,5 @@ GEMINI_API_KEY=your_api_key_here
 陳柏宇:https://github.com/Chen48863/0311tradebot.git
 
 林永富：https://github.com/Frankfurt-shrimp/Chatbot.git
+
+陳婉榕：https://github.com/chenwanrong0819/gemini-agent-hw.git
