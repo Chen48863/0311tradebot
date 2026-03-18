@@ -94,7 +94,8 @@ GEMINI_API_KEY=your_api_key_here
 > 陳婉榕：本次課程主要介紹 AI 專案開發過程中「版本控制與團隊協作」的重要性，並實際操作 Git 與 GitHub 來管理專案。透過重建一個最小可運作的 chatbot 專案，我理解到在 AI 開發中，程式會頻繁修改，如果沒有良好的版本管理機制，很容易在修改錯誤時無法回復，或在多人協作時造成程式碼互相覆蓋的問題。課程也讓我學習到 Git 的基本操作，例如使用 commit 記錄版本、push 將本地端程式同步到 GitHub，以及透過 branch 進行分工開發。此外，我也了解到 API key 等敏感資訊應透過 .env 檔案管理並加入 .gitignore，避免上傳到 GitHub 造成安全風險。透過這次實作，我不僅學會了基本的專案版控流程，也更理解團隊協作在 AI 專案開發中的重要性，對未來進行多人合作開發專案具有很大的幫助。 
 
 > 洪紹禎：這堂課讓我了解到 Version Control 程式開發的重要性，解決了過去手動備份導致檔案混亂的問題。未來在專案中使用 Git，第一步需在資料夾初始化以建立 Repository 。接著，每次完成階段性進度後，先將變更加入暫存區，最後執行 Commit ，就能清楚記錄每一次的開發軌跡，讓專案管理更有效率且安心。
----
+
+> 楊程軒：透過這次的課程實作，我學習到 Git 與 GitHub 在專案開發中的版本控制概念。過去在做程式或專題時，如果修改錯誤常常只能手動備份檔案，但透過 Git 的 commit 功能，可以清楚記錄每一次修改的內容與時間，讓版本管理變得更有系統。
 
 ## GitHub 專案連結
 
@@ -105,3 +106,5 @@ GEMINI_API_KEY=your_api_key_here
 陳婉榕：https://github.com/chenwanrong0819/gemini-agent-hw.git
 
 洪紹禎：https://github.com/sz-hong/AI-agent.git
+
+楊程軒：https://github.com/yangchengxuan306-lang/chatbot.git
